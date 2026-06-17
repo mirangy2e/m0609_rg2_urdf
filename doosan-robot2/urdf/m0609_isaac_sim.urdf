@@ -12,13 +12,14 @@
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_0_0.dae" scale="0.001 0.001 0.001" />
+				
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_0_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_0_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_0_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -48,13 +49,13 @@
             <collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_1_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_1_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_1_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_1_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -78,37 +79,37 @@
             <collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_1.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_1.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_1.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_1.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_2.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_2_2.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_2.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_2_2.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -132,13 +133,13 @@
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_3_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_3_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_3_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_3_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -162,25 +163,25 @@
             <collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_4_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_4_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_4_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_4_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_4_1.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_4_1.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_4_1.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_4_1.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -204,13 +205,13 @@
             <collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_5_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_5_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_5_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_5_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
@@ -234,13 +235,13 @@
 			<collision>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_collision/MF0609_6_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_collision/MF0609_6_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</collision>
 			<visual>
 				<origin rpy="0 0 0" xyz="0 0 0" />
 				<geometry>
-					<mesh filename="/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/meshes/m0609_white/MF0609_6_0.dae" scale="0.001 0.001 0.001" />
+					<mesh filename="/home/rokey/cobot3_ws/isaacpjt/M0609/doosan-robot2/urdf/meshes/m0609_white/MF0609_6_0.dae" scale="0.001 0.001 0.001" />
 				</geometry>
 			</visual>
 		</link>
